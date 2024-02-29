@@ -2,4 +2,4 @@
 
 [![Haydar Hilmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydar-hilmy&theme=tokyonight)]([https://github.com/haydar-hilmy/](https://haydar-hilmy.github.io/)https://haydar-hilmy.github.io/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydar-hilmy&layout=compact&theme=tokyonight)
-[![Jam Terbang](https://github-readme-stats.vercel.app/api/wakatime?username=haydar-hilmy)](https://github.com/haydar-hilmy/)
+[![Jam Terbang](https://github-readme-stats.vercel.app/api/wakatime?username=haydar-hilmy&theme=tokyonight)](https://github.com/haydar-hilmy/)
