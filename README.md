@@ -1,14 +1,11 @@
-# Supp Dev!👋
-<h3>drink some error again? wkwk</h3>
-
 <div align="center">
   
 ![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY0MGVwc25namJ2OGhzdXNvb2ZpcjlvZTBxbWMzM2MzZGY4ZHI5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
-<h1 align="center">Hola!, Haydar Hilmy</h1>
-<h3 align="center">Wanna Be A Coder and A Nice Guy</h3>
+<h1 align="center">Ciao, Dev!</h1>
+<h3 align="center">a Person who<br>Wanna Be a Coder and a Nice Guy</h3>
 
 ### Meet the dev
 <a href="https://instagram.com/haydar_hlmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@haydar_hilmy</a> <br>
