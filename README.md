@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">WassUp, Devs! 👋</h1>
-<h3 align="center">Just a guy who loves coding and good vibes ✌️</h3>
+<h3 align="center">Just a guy who enjoys coding and good vibes ✌️</h3>
 
 <p align="center">
   Aiming to master the art of code while keeping it chill 😎 <br>
