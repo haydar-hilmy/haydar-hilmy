@@ -4,8 +4,17 @@
 
 </div>
 
-<h1 align="center">Ciao, Dev!</h1>
-<h3 align="center">a Person who<br>Wanna Be a Coder and a Nice Guy</h3>
+<h1 align="center">WassUp, Devs! 👋</h1>
+<h3 align="center">Just a guy who loves coding and good vibes ✌️</h3>
+
+<p align="center">
+  Aiming to master the art of code while keeping it chill 😎 <br>
+  Sharing what I learn, building cool stuff, and always up for a challenge! 💻⚡
+</p>
+
+<p align="center">
+  Check out my work, drop some stars ⭐, and let's grow together! 🚀
+</p>
 
 ### Meet the dev
 <a href="https://instagram.com/haydar_hlmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@haydar_hilmy</a> <br>
