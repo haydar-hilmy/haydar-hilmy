@@ -8,12 +8,7 @@
 <h3 align="center">Just a guy who enjoys coding and good vibes ✌️</h3>
 
 <p align="center">
-  Aiming to master the art of code while keeping it chill 😎 <br>
-  Sharing what I learn, building cool stuff, and always up for a challenge! 💻⚡
-</p>
-
-<p align="center">
-  Check out my work, drop some stars ⭐, and let's grow together! 🚀
+  Aiming to master the art of code while keeping it chill 😎
 </p>
 
 ### Meet the dev
