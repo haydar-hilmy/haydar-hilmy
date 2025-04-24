@@ -13,7 +13,7 @@
 
 ### Meet the dev
 <a href="https://instagram.com/haydar_hlmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@haydar_hilmy</a> <br>
-<a href="https://instagram.com/minim_digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@minim_digital</a> <br>
+<a href="https://instagram.com/minim_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@minim_coding</a> <br>
 <a href="https://www.youtube.com/@haydarhilmy1913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haydar ig" height="30" width="40" />Haydar Hilmy</a> <br>
 <a href="https://www.linkedin.com/in/haydar-hilmy-alhakim-914161206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haydar linkedIn" height="30" width="40" />Haydar Hilmy Alhakim</a> <br>
 
