@@ -1,26 +1,67 @@
 <div align="center">
-  
+
 ![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY0MGVwc25namJ2OGhzdXNvb2ZpcjlvZTBxbWMzM2MzZGY4ZHI5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+# WassUp, Devs! 👋  
+### Just a guy who enjoys coding and good vibes ✌️  
+
+🎯 Aiming to master the art of code while keeping it chill 😎
 
 </div>
 
-<h1 align="center">WassUp, Devs! 👋</h1>
-<h3 align="center">Just a guy who enjoys coding and good vibes ✌️</h3>
+---
+
+## 👨‍💻 About Me
+```yaml
+Name: Haydar Hilmy Alhakim
+Focus: Web Development | Front-End Web Enjoyer™ & Enthusiast
+Status: Debugging life with learning & praying 🌱✨
+Vibes: Clean Code, Dirty Console Logs 😝
+```
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  Aiming to master the art of code while keeping it chill 😎
+  <a href="https://instagram.com/haydar_hlmy" target="_blank">
+    <img src="https://img.shields.io/badge/@haydar_hlmy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @haydar_hlmy" />
+  </a>
+  <a href="https://instagram.com/minim_coding" target="_blank">
+    <img src="https://img.shields.io/badge/@minim_coding-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @minim_coding" />
+  </a>
+  <a href="https://www.youtube.com/@haydarhilmy1913" target="_blank">
+    <img src="https://img.shields.io/badge/@haydarhilmy1913-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Haydar Hilmy" />
+  </a>
+  <a href="https://www.linkedin.com/in/haydar-hilmy-alhakim-914161206/" target="_blank">
+    <img src="https://img.shields.io/badge/Haydar_Hilmy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Haydar Hilmy" />
+  </a>
 </p>
 
-### Meet the dev
-<a href="https://instagram.com/haydar_hlmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@haydar_hilmy</a> <br>
-<a href="https://instagram.com/minim_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar ig" height="30" width="40" />@minim_coding</a> <br>
-<a href="https://www.youtube.com/@haydarhilmy1913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haydar ig" height="30" width="40" />Haydar Hilmy</a> <br>
-<a href="https://www.linkedin.com/in/haydar-hilmy-alhakim-914161206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haydar linkedIn" height="30" width="40" />Haydar Hilmy Alhakim</a> <br>
+---
 
+## 📊 GitHub Stats
 
-[![Haydar Hilmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydar-hilmy&theme=tokyonight)]([https://github.com/haydar-hilmy/](https://haydar-hilmy.github.io/)https://haydar-hilmy.github.io/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydar-hilmy&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haydar-hilmy&theme=tokyonight&show_icons=true&hide_border=true" alt="Haydar Hilmy's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydar-hilmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## Best Repository
-[![Note App](https://github-readme-stats.vercel.app/api/pin/?username=haydar-hilmy&repo=Note-App&theme=tokyonight)](https://github.com/haydar-hilmy/Note-App)
-[![Inventaris Barang: CI4](https://github-readme-stats.vercel.app/api/pin/?username=haydar-hilmy&repo=Inventaris-Barang&theme=tokyonight)](https://github.com/haydar-hilmy/Inventaris-Barang)
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,firebase,mongodb,mysql,supabase,git,npm,pnpm,vercel,netlify" />
+</p>
+
+---
+
+<div align="center">
+  
+> *Learning hard, praying harder.* 🙌  
+  
+✨ Thanks for stopping by!
+
+</div>
