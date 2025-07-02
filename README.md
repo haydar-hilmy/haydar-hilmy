@@ -43,9 +43,11 @@ Vibes: Clean Code, Dirty Console Logs 😝
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haydar-hilmy&theme=tokyonight&show_icons=true&hide_border=true" alt="Haydar Hilmy's GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydar-hilmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=haydar-hilmy&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haydar-hilmy&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
 </p>
 
 ---
